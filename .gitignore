@@ -1,0 +1,17 @@
+.venv/
+.vscode/
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+build/
+dist/
+*.egg-info/
+
+outputs/*
+!outputs/.gitkeep
+
+dataset/*
+!dataset/.gitkeep
+dataset/
